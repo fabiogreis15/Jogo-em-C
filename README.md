@@ -1,10 +1,10 @@
 Nome dos Membros e GitHub: 
 
-Allan D'Avila Souza Filho / allandavilafilho@gmail.com
-Fábio Gomes dos Reis / fabiogreis15@gmail.com
-Victor Gabriel Figueira dos Santos / Victorgfigueira@gmail.com 
-Wesley Wandelson Figueira dos Santos / wesleyfigueira1993@gmail.com
+Allan D'Avila Souza Filho (@allandavilafilho)
+Fábio Gomes dos Reis (@fabiogreis15)
+Victor Gabriel Figueira dos Santos (@FIGU3IR4)
+Wesley Wandelson Figueira dos Santos (wesleyfigueira)
 
-Nome da disciplina: Programação Imperativa e Funcional
+Nome da disciplina: Programação Imperativa e Funcional - 2025.1
 
 Nome da instituição de ensino: CESAR School.
